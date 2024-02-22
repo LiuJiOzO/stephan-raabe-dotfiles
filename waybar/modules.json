@@ -370,5 +370,13 @@
             "deactivated": ""
         },
         "on-click-right": "swaylock"        
-    }
+    },
+
+    "custom/cava": {
+        "exec": "sh ~/.config/hypr/scripts/cava.sh",
+        "format": "{}",
+        "tooltip": false,
+        "layer": "below",
+        "output": "all"
+    },
 }

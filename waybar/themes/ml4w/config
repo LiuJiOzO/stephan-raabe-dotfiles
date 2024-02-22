@@ -42,7 +42,8 @@
 
     // Modules Center
     "modules-center": [
-        "hyprland/workspaces"
+        "hyprland/workspaces",
+        "custom/cava"
     ],
 
     // Modules Right    
