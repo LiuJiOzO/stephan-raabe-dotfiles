@@ -50,4 +50,6 @@ else
     echo ""
     echo ":: Keyboard setup updated successfully."
     echo "PLEASE NOTE: You can update your keyboard layout later in ~/dotfiles/hypr/conf/keyboard.conf"
+    echo "For kb_options use `grp:caps_toggle` or `grp:win_space_toggle` or your own."
+    echo "For always on Numlock use `numlock_by_default = true`"
 fi
