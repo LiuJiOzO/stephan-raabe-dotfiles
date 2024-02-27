@@ -1,2 +1,2 @@
-name="Show/Hide Lock"
+name="Show/Hide Swaylock"
 order=1
