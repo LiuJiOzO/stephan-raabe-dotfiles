@@ -58,5 +58,5 @@ packagesYay=(
     "bibata-cursor-theme" 
     "trizen"
     "pacseek"
-    "rofi-lbonn-wayland"
+    "rofi-lbonn-wayland-git"
 );
